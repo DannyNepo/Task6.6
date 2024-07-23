@@ -1,0 +1,14 @@
+D:\SkillBox\C#\projects\Task6.6\Task6.6\bin\Debug\net7.0\Task6.6.exe
+D:\SkillBox\C#\projects\Task6.6\Task6.6\bin\Debug\net7.0\Task6.6.deps.json
+D:\SkillBox\C#\projects\Task6.6\Task6.6\bin\Debug\net7.0\Task6.6.runtimeconfig.json
+D:\SkillBox\C#\projects\Task6.6\Task6.6\bin\Debug\net7.0\Task6.6.dll
+D:\SkillBox\C#\projects\Task6.6\Task6.6\bin\Debug\net7.0\Task6.6.pdb
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.AssemblyInfoInputs.cache
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.AssemblyInfo.cs
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.csproj.CoreCompileInputs.cache
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.dll
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\refint\Task6.6.dll
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.pdb
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\Task6.6.genruntimeconfig.cache
+D:\SkillBox\C#\projects\Task6.6\Task6.6\obj\Debug\net7.0\ref\Task6.6.dll
